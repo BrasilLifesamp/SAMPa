@@ -1,8 +1,0 @@
-[25/03/2015 - 11:28:19] - AdmCmd: O admin Cursino_Lost retirou os avisos de Evoo_Volt.
-[25/03/2015 - 15:49:07] - AdmCmd: O admin Cursino_Lost retirou os avisos de Cursino_Lost.
-[28/03/2015 - 19:00:30] - AdmCmd: O admin Johny_Staff avisou Mr_Land, Motivo: hack
-[29/03/2015 - 21:09:57] - AdmCmd: O admin iArky_ShiFt avisou CmdGrl_PhantonPM, Motivo: Invadindo TR Sem Gov 1/2
-[29/03/2015 - 21:10:11] - AdmCmd: O admin iArky_ShiFt avisou Cpt_JhonatanPM, Motivo: Invadindo TR Sem Gov 1/2
-[29/03/2015 - 21:10:57] - AdmCmd: O admin Saymon_Felipe retirou os avisos de ysa_rota.
-[29/03/2015 - 21:11:10] - AdmCmd: O admin Saymon_Felipe retirou os avisos de CmdGrl_PhantonPM.
-[29/03/2015 - 21:11:14] - AdmCmd: O admin Saymon_Felipe retirou os avisos de Cpt_JhonatanPM.

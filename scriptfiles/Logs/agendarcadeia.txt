@@ -1,4 +1,0 @@
-[28/03/2015 - 01:54:50] - AdmCmd: O Admin Aleister_Crowley agendou Cidadao_DeBem para (+10 minutos de cadeia e +0 avisos), Motivo: An indevido
-[28/03/2015 - 01:55:05] - AdmCmd: O Admin Aleister_Crowley agendou Cidadao_DeBem para (+15 minutos de cadeia e +0 avisos), Motivo: An indevido + /q
-[29/03/2015 - 13:35:16] - AdmCmd: O Admin Aleister_Crowley agendou SubCmd_ZeusBOPE para (+40 minutos de cadeia e +0 avisos), Motivo: /gov indevido + /q
-[30/03/2015 - 23:34:56] - AdmCmd: O Admin Aleister_Crowley agendou Cidadao_DeBem para (+10 minutos de cadeia e +0 avisos), Motivo: An Indevido + /q

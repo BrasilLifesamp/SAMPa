@@ -1,7 +1,0 @@
-[25/03/2015 - 19:15:20] - [DM]: HHwilliam_HH [ID: 9] acusou Sr_BriZaaDo [ID: 0], resultado: {00FF00}[APENAS O ACUSADO AGREDIU].
-[26/03/2015 - 11:41:21] - [DM]: Jhonatan_Killeer [ID: 1] acusou HarD_x1 [ID: 0], resultado: {FFFFFF}[NINGUÉM SE AGREDIU].
-[26/03/2015 - 11:41:45] - [DM]: Jhonatan_Killeer [ID: 1] acusou HarD_x1 [ID: 0], resultado: {FFFFFF}[NINGUÉM SE AGREDIU].
-[28/03/2015 - 21:32:40] - [DM]: gilmar_cp [ID: 29] acusou zSr_BeBee [ID: 24], resultado: {00FF00}[APENAS O ACUSADO AGREDIU].
-[29/03/2015 - 09:48:36] - [DM]: Daniel_Master2 [ID: 7] acusou Baby_Face [ID: 11], resultado: {FFFFFF}[NINGUÉM SE AGREDIU].
-[29/03/2015 - 11:17:06] - [DM]: Lactea_ShiFt [ID: 1] acusou SubCmd_ZeusBOPE [ID: 10], resultado: {FFFFFF}[NINGUÉM SE AGREDIU].
-[29/03/2015 - 11:47:09] - [DM]: Daniel_Master2 [ID: 12] acusou Lactea_ShiFt [ID: 1], resultado: {FFFFFF}[NINGUÉM SE AGREDIU].

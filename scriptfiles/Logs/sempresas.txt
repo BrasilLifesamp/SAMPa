@@ -1,7 +1,0 @@
-[26/03/2015 - 19:06:53] - Yellow_Card comprou a mini empresa ID: 1
-[26/03/2015 - 19:39:28] - Aleister_Crowley comprou a mini empresa ID: 25
-[29/03/2015 - 23:28:07] - Saymon_Felipe comprou a mini empresa ID: 3
-[29/03/2015 - 23:30:36] - Saymon_Felipe vendeu sua mini empresa ID: 3
-[30/03/2015 - 15:48:11] - SD_MottaEB comprou a mini empresa ID: 23
-[01/09/2015 - 00:17:37] - xZu_OwneRSF vendeu sua mini empresa ID: 14
-[22/02/2017 - 22:05:48] - Jackson_xP vendeu sua mini empresa ID: 1

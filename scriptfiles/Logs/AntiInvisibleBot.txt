@@ -1,9 +1,0 @@
-[28/03/2015 - 18:58:32] - [Anti Invisible Bot Attacker]: ip 173.245.67.164 bloqueado!
-[28/03/2015 - 19:14:32] - [Anti Invisible Bot Attacker]: ip 179.176.102.160 bloqueado!
-[28/03/2015 - 19:15:20] - [Anti Invisible Bot Attacker]: ip 173.245.67.203 bloqueado!
-[28/03/2015 - 19:15:20] - [Anti Invisible Bot Attacker]: ip 173.245.67.203 bloqueado!
-[28/03/2015 - 22:00:05] - [Anti Invisible Bot Attacker]: ip 189.6.167.40 bloqueado!
-[30/03/2015 - 20:10:21] - [Anti Invisible Bot Attacker]: ip 177.194.248.90 bloqueado!
-[30/03/2015 - 20:20:56] - [Anti Invisible Bot Attacker]: ip 173.245.67.43 bloqueado!
-[30/03/2015 - 20:22:38] - [Anti Invisible Bot Attacker]: ip 177.180.184.53 bloqueado!
-[31/03/2015 - 17:23:21] - [Anti Invisible Bot Attacker]: ip 216.172.142.229 bloqueado!
