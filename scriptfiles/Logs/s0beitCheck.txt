@@ -1,0 +1,462 @@
+[25/03/2015 - 00:08:51] - [Anti-S0beit]: Admin asas_urubu iniciou uma checagem de s0beit em Jhonatan_Killeer.
+[25/03/2015 - 00:08:59] - [Anti-S0beit]: RESULTADO: Jhonatan_Killeer não tem o s0beit instalado.
+[25/03/2015 - 00:08:59] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[25/03/2015 - 00:08:59] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[25/03/2015 - 00:08:59] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[25/03/2015 - 10:49:01] - [Anti-S0beit]: Admin Cursino_Lost iniciou uma checagem de s0beit em Jhonatan_Killeer.
+[25/03/2015 - 10:49:09] - [Anti-S0beit]: RESULTADO: Jhonatan_Killeer não tem o s0beit instalado.
+[25/03/2015 - 10:49:09] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[25/03/2015 - 10:49:09] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[25/03/2015 - 10:49:09] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[25/03/2015 - 15:38:36] - [Anti-S0beit]: Admin Cursino_Lost iniciou uma checagem de s0beit em Cursino_Lost.
+[25/03/2015 - 15:38:44] - [Anti-S0beit]: RESULTADO: Cursino_Lost não tem o s0beit instalado.
+[25/03/2015 - 15:38:44] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[25/03/2015 - 15:38:44] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[25/03/2015 - 15:38:44] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[25/03/2015 - 19:52:02] - [Anti-S0beit]: Admin Dr_Felipe iniciou uma checagem de s0beit em NookBull_Br.
+[25/03/2015 - 19:52:10] - [Anti-S0beit]: RESULTADO: NookBull_Br não tem o s0beit instalado.
+[25/03/2015 - 19:52:10] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[25/03/2015 - 19:52:10] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[25/03/2015 - 19:52:10] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[25/03/2015 - 20:16:37] - [Anti-S0beit]: Admin asas_urubu iniciou uma checagem de s0beit em Jhonatan_Killeer.
+[25/03/2015 - 20:16:44] - [Anti-S0beit]: RESULTADO: Jhonatan_Killeer não tem o s0beit instalado.
+[25/03/2015 - 20:16:44] - [Anti-S0beit]: Posição Z da Camera: 7.135600.
+[25/03/2015 - 20:16:44] - [Anti-S0beit]: Posição Z do Player: 5.890625.
+[25/03/2015 - 20:16:44] - [Anti-S0beit]: Diferença absoluta da Posição Z: 1.244975 Metros.
+
+
+[26/03/2015 - 19:53:45] - [Anti-S0beit]: Admin asas_urubu iniciou uma checagem de s0beit em FraJoLa_Volt.
+[26/03/2015 - 19:53:52] - [Anti-S0beit]: RESULTADO: FraJoLa_Volt não tem o s0beit instalado.
+[26/03/2015 - 19:53:52] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[26/03/2015 - 19:53:52] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[26/03/2015 - 19:53:52] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[26/03/2015 - 19:53:57] - [Anti-S0beit]: Admin asas_urubu iniciou uma checagem de s0beit em Lactea_Volt.
+[26/03/2015 - 19:54:05] - [Anti-S0beit]: RESULTADO: Lactea_Volt não tem o s0beit instalado.
+[26/03/2015 - 19:54:05] - [Anti-S0beit]: Posição Z da Camera: 18.719400.
+[26/03/2015 - 19:54:05] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[26/03/2015 - 19:54:05] - [Anti-S0beit]: Diferença absoluta da Posição Z: 1.047500 Metros.
+
+
+[26/03/2015 - 19:54:14] - [Anti-S0beit]: Admin asas_urubu iniciou uma checagem de s0beit em Azeredo_Volt.
+[26/03/2015 - 19:54:23] - [Anti-S0beit]: RESULTADO: Azeredo_Volt não tem o s0beit instalado.
+[26/03/2015 - 19:54:23] - [Anti-S0beit]: Posição Z da Camera: 18.719400.
+[26/03/2015 - 19:54:23] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[26/03/2015 - 19:54:23] - [Anti-S0beit]: Diferença absoluta da Posição Z: 1.047500 Metros.
+
+
+[26/03/2015 - 19:54:25] - [Anti-S0beit]: Admin asas_urubu iniciou uma checagem de s0beit em xArky_Volt.
+[26/03/2015 - 19:54:33] - [Anti-S0beit]: RESULTADO: xArky_Volt não tem o s0beit instalado.
+[26/03/2015 - 19:54:33] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[26/03/2015 - 19:54:33] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[26/03/2015 - 19:54:33] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[28/03/2015 - 00:43:07] - [Anti-S0beit]: Admin Saymon_Felipe iniciou uma checagem de s0beit em rodrigorkn_nunes.
+[28/03/2015 - 00:43:14] - [Anti-S0beit]: RESULTADO: rodrigorkn_nunes não tem o s0beit instalado.
+[28/03/2015 - 00:43:14] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[28/03/2015 - 00:43:14] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[28/03/2015 - 00:43:14] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[28/03/2015 - 13:30:53] - [Anti-S0beit]: Admin Johny_Staff iniciou uma checagem de s0beit em Fabricio_Cachoeira.
+[28/03/2015 - 13:31:01] - [Anti-S0beit]: RESULTADO: Fabricio_Cachoeira tem o s0beit instalado.
+[28/03/2015 - 13:31:01] - [Anti-S0beit]: Posição Z da Camera: 21.758499.
+[28/03/2015 - 13:31:01] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[28/03/2015 - 13:31:01] - [Anti-S0beit]: Diferença absoluta da Posição Z: 4.086599 Metros.
+
+
+[28/03/2015 - 14:47:07] - [Anti-S0beit]: Admin Johny_Staff iniciou uma checagem de s0beit em Matador_DNovinho.
+[28/03/2015 - 14:47:14] - [Anti-S0beit]: RESULTADO: Matador_DNovinho não tem o s0beit instalado.
+[28/03/2015 - 14:47:14] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[28/03/2015 - 14:47:14] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[28/03/2015 - 14:47:14] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[28/03/2015 - 15:26:21] - [Anti-S0beit]: Admin Aleister_Crowley iniciou uma checagem de s0beit em Pantera_ShiFt.
+[28/03/2015 - 15:26:26] - [Anti-S0beit]: Admin Aleister_Crowley iniciou uma checagem de s0beit em Pantera_ShiFt.
+[28/03/2015 - 15:26:29] - [Anti-S0beit]: RESULTADO: Pantera_ShiFt não tem o s0beit instalado.
+[28/03/2015 - 15:26:29] - [Anti-S0beit]: Posição Z da Camera: 1015.563476.
+[28/03/2015 - 15:26:29] - [Anti-S0beit]: Posição Z do Player: 1014.907897.
+[28/03/2015 - 15:26:29] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.655578 Metros.
+
+
+[28/03/2015 - 15:26:34] - [Anti-S0beit]: RESULTADO: Pantera_ShiFt não tem o s0beit instalado.
+[28/03/2015 - 15:26:34] - [Anti-S0beit]: Posição Z da Camera: 1014.975891.
+[28/03/2015 - 15:26:34] - [Anti-S0beit]: Posição Z do Player: 1014.193603.
+[28/03/2015 - 15:26:34] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.782287 Metros.
+
+
+[28/03/2015 - 15:37:42] - [Anti-S0beit]: Admin Terr0r_Vilhena iniciou uma checagem de s0beit em Pantera_ShiFt.
+[28/03/2015 - 15:37:50] - [Anti-S0beit]: RESULTADO: Pantera_ShiFt não tem o s0beit instalado.
+[28/03/2015 - 15:37:50] - [Anti-S0beit]: Posição Z da Camera: 18.719400.
+[28/03/2015 - 15:37:50] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[28/03/2015 - 15:37:50] - [Anti-S0beit]: Diferença absoluta da Posição Z: 1.047500 Metros.
+
+
+[28/03/2015 - 15:37:55] - [Anti-S0beit]: Admin Terr0r_Vilhena iniciou uma checagem de s0beit em DreZerT_ShiFt.
+[28/03/2015 - 15:38:03] - [Anti-S0beit]: RESULTADO: DreZerT_ShiFt não tem o s0beit instalado.
+[28/03/2015 - 15:38:03] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[28/03/2015 - 15:38:03] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[28/03/2015 - 15:38:03] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[28/03/2015 - 15:38:07] - [Anti-S0beit]: Admin Terr0r_Vilhena iniciou uma checagem de s0beit em Lactea_ShiFt.
+[28/03/2015 - 15:38:15] - [Anti-S0beit]: RESULTADO: Lactea_ShiFt não tem o s0beit instalado.
+[28/03/2015 - 15:38:15] - [Anti-S0beit]: Posição Z da Camera: 16.914800.
+[28/03/2015 - 15:38:15] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[28/03/2015 - 15:38:15] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.757099 Metros.
+
+
+[28/03/2015 - 22:16:41] - [Anti-S0beit]: Admin Saymon_Felipe iniciou uma checagem de s0beit em Deagle_Vilhena.
+[28/03/2015 - 22:16:49] - [Anti-S0beit]: RESULTADO: Deagle_Vilhena não tem o s0beit instalado.
+[28/03/2015 - 22:16:49] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[28/03/2015 - 22:16:49] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[28/03/2015 - 22:16:49] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[28/03/2015 - 22:16:56] - [Anti-S0beit]: Admin Terr0r_Vilhena iniciou uma checagem de s0beit em Saymon_Felipe.
+[28/03/2015 - 22:17:03] - [Anti-S0beit]: RESULTADO: Saymon_Felipe não tem o s0beit instalado.
+[28/03/2015 - 22:17:03] - [Anti-S0beit]: Posição Z da Camera: 33.719398.
+[28/03/2015 - 22:17:03] - [Anti-S0beit]: Posição Z do Player: 32.671897.
+[28/03/2015 - 22:17:03] - [Anti-S0beit]: Diferença absoluta da Posição Z: 1.047500 Metros.
+
+
+[28/03/2015 - 22:17:39] - [Anti-S0beit]: Admin Terr0r_Vilhena iniciou uma checagem de s0beit em Terr0r_Vilhena.
+[28/03/2015 - 22:17:47] - [Anti-S0beit]: RESULTADO: Terr0r_Vilhena tem o s0beit instalado.
+[28/03/2015 - 22:17:47] - [Anti-S0beit]: Posição Z da Camera: 45.797500.
+[28/03/2015 - 22:17:47] - [Anti-S0beit]: Posição Z do Player: 47.671897.
+[28/03/2015 - 22:17:47] - [Anti-S0beit]: Diferença absoluta da Posição Z: 1.874397 Metros.
+
+
+[29/03/2015 - 12:21:35] - [Anti-S0beit]: Admin Deagle_Vilhena iniciou uma checagem de s0beit em TenCel_WilliamBOPE.
+[29/03/2015 - 12:21:42] - [Anti-S0beit]: RESULTADO: TenCel_WilliamBOPE tem o s0beit instalado.
+[29/03/2015 - 12:21:42] - [Anti-S0beit]: Posição Z da Camera: 21.758499.
+[29/03/2015 - 12:21:42] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[29/03/2015 - 12:21:42] - [Anti-S0beit]: Diferença absoluta da Posição Z: 4.086599 Metros.
+
+
+[29/03/2015 - 12:25:05] - [Anti-S0beit]: Admin Saymon_Felipe iniciou uma checagem de s0beit em Cel_MarinsEOE.
+[29/03/2015 - 12:25:13] - [Anti-S0beit]: RESULTADO: Cel_MarinsEOE não tem o s0beit instalado.
+[29/03/2015 - 12:25:13] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[29/03/2015 - 12:25:13] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[29/03/2015 - 12:25:13] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[29/03/2015 - 12:29:21] - [Anti-S0beit]: Admin Deagle_Vilhena iniciou uma checagem de s0beit em Deagle_Vilhena.
+[29/03/2015 - 12:29:28] - [Anti-S0beit]: RESULTADO: Deagle_Vilhena não tem o s0beit instalado.
+[29/03/2015 - 12:29:28] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[29/03/2015 - 12:29:28] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[29/03/2015 - 12:29:28] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[29/03/2015 - 12:51:45] - [Anti-S0beit]: Admin Ramirez_Ferraz iniciou uma checagem de s0beit em TroniC_AbsoluT.
+[29/03/2015 - 12:51:52] - [Anti-S0beit]: RESULTADO: TroniC_AbsoluT não tem o s0beit instalado.
+[29/03/2015 - 12:51:52] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[29/03/2015 - 12:51:52] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[29/03/2015 - 12:51:52] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[29/03/2015 - 19:13:27] - [Anti-S0beit]: Admin Johny_Staff iniciou uma checagem de s0beit em k2_punisher.
+[29/03/2015 - 19:13:35] - [Anti-S0beit]: RESULTADO: k2_punisher não tem o s0beit instalado.
+[29/03/2015 - 19:13:35] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[29/03/2015 - 19:13:35] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[29/03/2015 - 19:13:35] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[29/03/2015 - 23:52:31] - [Anti-S0beit]: Admin Johny_Staff iniciou uma checagem de s0beit em CPT_Dblack.
+[29/03/2015 - 23:52:39] - [Anti-S0beit]: RESULTADO: CPT_Dblack tem o s0beit instalado.
+[29/03/2015 - 23:52:39] - [Anti-S0beit]: Posição Z da Camera: 21.758499.
+[29/03/2015 - 23:52:39] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[29/03/2015 - 23:52:39] - [Anti-S0beit]: Diferença absoluta da Posição Z: 4.086599 Metros.
+
+
+[30/03/2015 - 19:03:41] - [Anti-S0beit]: Admin Johny_Staff iniciou uma checagem de s0beit em ysa_rota.
+[30/03/2015 - 19:03:49] - [Anti-S0beit]: RESULTADO: ysa_rota tem o s0beit instalado.
+[30/03/2015 - 19:03:49] - [Anti-S0beit]: Posição Z da Camera: 1002.657470.
+[30/03/2015 - 19:03:49] - [Anti-S0beit]: Posição Z do Player: 1000.921569.
+[30/03/2015 - 19:03:49] - [Anti-S0beit]: Diferença absoluta da Posição Z: 1.735900 Metros.
+
+
+[30/03/2015 - 19:04:51] - [Anti-S0beit]: Admin Johny_Staff iniciou uma checagem de s0beit em Caio_xt.
+[30/03/2015 - 19:04:58] - [Anti-S0beit]: RESULTADO: Caio_xt não tem o s0beit instalado.
+[30/03/2015 - 19:04:58] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[30/03/2015 - 19:04:58] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[30/03/2015 - 19:04:58] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[30/03/2015 - 19:09:45] - [Anti-S0beit]: Admin Johny_Staff iniciou uma checagem de s0beit em Cachorrera_Starkey.
+[30/03/2015 - 19:09:53] - [Anti-S0beit]: RESULTADO: Cachorrera_Starkey não tem o s0beit instalado.
+[30/03/2015 - 19:09:53] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[30/03/2015 - 19:09:53] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[30/03/2015 - 19:09:53] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[30/03/2015 - 19:10:23] - [Anti-S0beit]: Admin Johny_Staff iniciou uma checagem de s0beit em Caio_xt.
+[30/03/2015 - 19:10:32] - [Anti-S0beit]: RESULTADO: Caio_xt não tem o s0beit instalado.
+[30/03/2015 - 19:10:32] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[30/03/2015 - 19:10:32] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[30/03/2015 - 19:10:32] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[30/03/2015 - 19:10:46] - [Anti-S0beit]: Admin Johny_Staff iniciou uma checagem de s0beit em rodrigorkn_nunes.
+[30/03/2015 - 19:10:53] - [Anti-S0beit]: RESULTADO: rodrigorkn_nunes não tem o s0beit instalado.
+[30/03/2015 - 19:10:53] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[30/03/2015 - 19:10:53] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[30/03/2015 - 19:10:53] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[30/03/2015 - 23:33:00] - [Anti-S0beit]: Admin Saymon_Felipe iniciou uma checagem de s0beit em brian_27426.
+[30/03/2015 - 23:33:08] - [Anti-S0beit]: RESULTADO: brian_27426 não tem o s0beit instalado.
+[30/03/2015 - 23:33:08] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[30/03/2015 - 23:33:08] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[30/03/2015 - 23:33:08] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[30/03/2015 - 23:39:00] - [Anti-S0beit]: Admin Johny_Staff iniciou uma checagem de s0beit em brian_27426.
+[30/03/2015 - 23:39:08] - [Anti-S0beit]: RESULTADO: brian_27426 não tem o s0beit instalado.
+[30/03/2015 - 23:39:08] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[30/03/2015 - 23:39:08] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[30/03/2015 - 23:39:08] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[31/03/2015 - 00:41:28] - [Anti-S0beit]: Admin Baby_Face iniciou uma checagem de s0beit em Cpt_JhonatanPM.
+[31/03/2015 - 00:41:35] - [Anti-S0beit]: RESULTADO: Cpt_JhonatanPM não tem o s0beit instalado.
+[31/03/2015 - 00:41:35] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[31/03/2015 - 00:41:35] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[31/03/2015 - 00:41:35] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[31/03/2015 - 00:42:02] - [Anti-S0beit]: Admin Baby_Face iniciou uma checagem de s0beit em Baby_Face.
+[31/03/2015 - 00:42:09] - [Anti-S0beit]: RESULTADO: Baby_Face não tem o s0beit instalado.
+[31/03/2015 - 00:42:09] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[31/03/2015 - 00:42:09] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[31/03/2015 - 00:42:09] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[31/03/2015 - 00:46:51] - [Anti-S0beit]: Admin Leo_Swift iniciou uma checagem de s0beit em Claudiane_Pinheiro.
+[31/03/2015 - 00:46:58] - [Anti-S0beit]: RESULTADO: Claudiane_Pinheiro não tem o s0beit instalado.
+[31/03/2015 - 00:46:58] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[31/03/2015 - 00:46:58] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[31/03/2015 - 00:46:58] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[31/03/2015 - 00:49:44] - [Anti-S0beit]: Admin Leo_Swift iniciou uma checagem de s0beit em Cpt_JhonatanPM.
+[31/03/2015 - 00:49:51] - [Anti-S0beit]: RESULTADO: Cpt_JhonatanPM não tem o s0beit instalado.
+[31/03/2015 - 00:49:51] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[31/03/2015 - 00:49:51] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[31/03/2015 - 00:49:51] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[31/03/2015 - 00:58:45] - [Anti-S0beit]: Admin Leo_Swift iniciou uma checagem de s0beit em Leo_Swift.
+[31/03/2015 - 00:58:53] - [Anti-S0beit]: RESULTADO: Leo_Swift não tem o s0beit instalado.
+[31/03/2015 - 00:58:53] - [Anti-S0beit]: Posição Z da Camera: 18.719400.
+[31/03/2015 - 00:58:53] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[31/03/2015 - 00:58:53] - [Anti-S0beit]: Diferença absoluta da Posição Z: 1.047500 Metros.
+
+
+[31/03/2015 - 01:13:30] - [Anti-S0beit]: Admin Leo_Swift iniciou uma checagem de s0beit em Pablo_eduardo.
+[31/03/2015 - 01:13:38] - [Anti-S0beit]: RESULTADO: Pablo_eduardo não tem o s0beit instalado.
+[31/03/2015 - 01:13:38] - [Anti-S0beit]: Posição Z da Camera: 677.282897.
+[31/03/2015 - 01:13:38] - [Anti-S0beit]: Posição Z do Player: 677.282897.
+[31/03/2015 - 01:13:38] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.000000 Metros.
+
+
+[31/03/2015 - 01:13:43] - [Anti-S0beit]: Admin Leo_Swift iniciou uma checagem de s0beit em Guilherme_Rezende.
+[31/03/2015 - 01:13:50] - [Anti-S0beit]: RESULTADO: Guilherme_Rezende tem o s0beit instalado.
+[31/03/2015 - 01:13:50] - [Anti-S0beit]: Posição Z da Camera: 12454.179687.
+[31/03/2015 - 01:13:50] - [Anti-S0beit]: Posição Z do Player: 12526.685546.
+[31/03/2015 - 01:13:50] - [Anti-S0beit]: Diferença absoluta da Posição Z: 72.505859 Metros.
+
+
+[31/03/2015 - 01:15:33] - [Anti-S0beit]: Admin Leo_Swift iniciou uma checagem de s0beit em Guilherme_Rezende.
+[31/03/2015 - 01:15:41] - [Anti-S0beit]: RESULTADO: Guilherme_Rezende não tem o s0beit instalado.
+[31/03/2015 - 01:15:41] - [Anti-S0beit]: Posição Z da Camera: 6646.003417.
+[31/03/2015 - 01:15:41] - [Anti-S0beit]: Posição Z do Player: 6646.003417.
+[31/03/2015 - 01:15:41] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.000000 Metros.
+
+
+[31/03/2015 - 01:18:08] - [Anti-S0beit]: Admin Leo_Swift iniciou uma checagem de s0beit em Pablo_eduardo.
+[31/03/2015 - 01:18:16] - [Anti-S0beit]: RESULTADO: Pablo_eduardo não tem o s0beit instalado.
+[31/03/2015 - 01:18:16] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[31/03/2015 - 01:18:16] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[31/03/2015 - 01:18:16] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[31/03/2015 - 01:21:14] - [Anti-S0beit]: Admin Leo_Swift iniciou uma checagem de s0beit em Kevin_Augusto.
+[31/03/2015 - 01:21:22] - [Anti-S0beit]: RESULTADO: Kevin_Augusto não tem o s0beit instalado.
+[31/03/2015 - 01:21:22] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[31/03/2015 - 01:21:22] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[31/03/2015 - 01:21:22] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[31/03/2015 - 01:25:10] - [Anti-S0beit]: Admin Leo_Swift iniciou uma checagem de s0beit em Rodrigo_Stark.
+[31/03/2015 - 01:25:18] - [Anti-S0beit]: RESULTADO: Rodrigo_Stark não tem o s0beit instalado.
+[31/03/2015 - 01:25:18] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[31/03/2015 - 01:25:18] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[31/03/2015 - 01:25:18] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[31/03/2015 - 01:25:59] - [Anti-S0beit]: Admin Leo_Swift iniciou uma checagem de s0beit em Sem_Nick.
+[31/03/2015 - 01:26:06] - [Anti-S0beit]: RESULTADO: Sem_Nick tem o s0beit instalado.
+[31/03/2015 - 01:26:06] - [Anti-S0beit]: Posição Z da Camera: 6726.968750.
+[31/03/2015 - 01:26:06] - [Anti-S0beit]: Posição Z do Player: 6763.221679.
+[31/03/2015 - 01:26:06] - [Anti-S0beit]: Diferença absoluta da Posição Z: 36.252929 Metros.
+
+
+[31/03/2015 - 12:05:45] - [Anti-S0beit]: Admin Deagle_Vilhena iniciou uma checagem de s0beit em Madness_Play.
+[31/03/2015 - 12:05:53] - [Anti-S0beit]: RESULTADO: Madness_Play não tem o s0beit instalado.
+[31/03/2015 - 12:05:53] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[31/03/2015 - 12:05:53] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[31/03/2015 - 12:05:53] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[31/03/2015 - 12:06:17] - [Anti-S0beit]: Admin Deagle_Vilhena iniciou uma checagem de s0beit em Deagle_Vilhena.
+[31/03/2015 - 12:06:25] - [Anti-S0beit]: RESULTADO: Deagle_Vilhena tem o s0beit instalado.
+[31/03/2015 - 12:06:25] - [Anti-S0beit]: Posição Z da Camera: 9394.671875.
+[31/03/2015 - 12:06:25] - [Anti-S0beit]: Posição Z do Player: 9467.180664.
+[31/03/2015 - 12:06:25] - [Anti-S0beit]: Diferença absoluta da Posição Z: 72.508789 Metros.
+
+
+[31/03/2015 - 12:20:06] - [Anti-S0beit]: Admin Leo_Swift iniciou uma checagem de s0beit em Emerson_Blood.
+[31/03/2015 - 12:20:14] - [Anti-S0beit]: RESULTADO: Emerson_Blood não tem o s0beit instalado.
+[31/03/2015 - 12:20:14] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[31/03/2015 - 12:20:14] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[31/03/2015 - 12:20:14] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[31/03/2015 - 12:20:16] - [Anti-S0beit]: Admin Leo_Swift iniciou uma checagem de s0beit em Chico_Freitas.
+[31/03/2015 - 12:20:23] - [Anti-S0beit]: RESULTADO: Chico_Freitas não tem o s0beit instalado.
+[31/03/2015 - 12:20:23] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[31/03/2015 - 12:20:23] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[31/03/2015 - 12:20:23] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[31/03/2015 - 12:20:31] - [Anti-S0beit]: Admin Leo_Swift iniciou uma checagem de s0beit em iPhanton_Scott.
+[31/03/2015 - 12:20:38] - [Anti-S0beit]: RESULTADO: iPhanton_Scott não tem o s0beit instalado.
+[31/03/2015 - 12:20:38] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[31/03/2015 - 12:20:38] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[31/03/2015 - 12:20:38] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[31/03/2015 - 12:20:41] - [Anti-S0beit]: Admin Leo_Swift iniciou uma checagem de s0beit em Ramirez_Ferraz.
+[31/03/2015 - 12:20:49] - [Anti-S0beit]: RESULTADO: Ramirez_Ferraz não tem o s0beit instalado.
+[31/03/2015 - 12:20:49] - [Anti-S0beit]: Posição Z da Camera: 11.149200.
+[31/03/2015 - 12:20:49] - [Anti-S0beit]: Posição Z do Player: 10.000000.
+[31/03/2015 - 12:20:49] - [Anti-S0beit]: Diferença absoluta da Posição Z: 1.149200 Metros.
+
+
+[31/03/2015 - 12:21:19] - [Anti-S0beit]: Admin Leo_Swift iniciou uma checagem de s0beit em Cpt_JhonatanPM.
+[31/03/2015 - 12:21:26] - [Anti-S0beit]: RESULTADO: Cpt_JhonatanPM não tem o s0beit instalado.
+[31/03/2015 - 12:21:26] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[31/03/2015 - 12:21:26] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[31/03/2015 - 12:21:26] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[31/03/2015 - 12:21:28] - [Anti-S0beit]: Admin Leo_Swift iniciou uma checagem de s0beit em SD_WilliamEB.
+[31/03/2015 - 12:21:35] - [Anti-S0beit]: RESULTADO: SD_WilliamEB não tem o s0beit instalado.
+[31/03/2015 - 12:21:35] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[31/03/2015 - 12:21:35] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[31/03/2015 - 12:21:35] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[31/03/2015 - 12:21:39] - [Anti-S0beit]: Admin Ramirez_Ferraz iniciou uma checagem de s0beit em Leo_Swift.
+[31/03/2015 - 12:21:46] - [Anti-S0beit]: RESULTADO: Leo_Swift não tem o s0beit instalado.
+[31/03/2015 - 12:21:46] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[31/03/2015 - 12:21:46] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[31/03/2015 - 12:21:46] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[31/03/2015 - 12:22:04] - [Anti-S0beit]: Admin Leo_Swift iniciou uma checagem de s0beit em Deagle_Vilhena.
+[31/03/2015 - 12:22:12] - [Anti-S0beit]: RESULTADO: Deagle_Vilhena não tem o s0beit instalado.
+[31/03/2015 - 12:22:12] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[31/03/2015 - 12:22:12] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[31/03/2015 - 12:22:12] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[31/03/2015 - 12:24:17] - [Anti-S0beit]: Admin Deagle_Vilhena iniciou uma checagem de s0beit em Deagle_Vilhena.
+[31/03/2015 - 12:24:25] - [Anti-S0beit]: RESULTADO: Deagle_Vilhena não tem o s0beit instalado.
+[31/03/2015 - 12:24:25] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[31/03/2015 - 12:24:25] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[31/03/2015 - 12:24:25] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[31/03/2015 - 13:27:26] - [Anti-S0beit]: Admin Baby_Face iniciou uma checagem de s0beit em igor_araujo.
+[31/03/2015 - 13:27:34] - [Anti-S0beit]: RESULTADO: igor_araujo não tem o s0beit instalado.
+[31/03/2015 - 13:27:34] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[31/03/2015 - 13:27:34] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[31/03/2015 - 13:27:34] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[31/03/2015 - 14:04:34] - [Anti-S0beit]: Admin Baby_Face iniciou uma checagem de s0beit em Mr_Nicolas.
+[31/03/2015 - 14:04:42] - [Anti-S0beit]: RESULTADO: Mr_Nicolas não tem o s0beit instalado.
+[31/03/2015 - 14:04:42] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[31/03/2015 - 14:04:42] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[31/03/2015 - 14:04:42] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[31/03/2015 - 14:06:47] - [Anti-S0beit]: Admin Baby_Face iniciou uma checagem de s0beit em igor_araujo.
+[31/03/2015 - 14:06:54] - [Anti-S0beit]: RESULTADO: igor_araujo não tem o s0beit instalado.
+[31/03/2015 - 14:06:54] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[31/03/2015 - 14:06:54] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[31/03/2015 - 14:06:54] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[31/03/2015 - 14:07:03] - [Anti-S0beit]: Admin Baby_Face iniciou uma checagem de s0beit em igor_araujo.
+[31/03/2015 - 14:07:10] - [Anti-S0beit]: RESULTADO: igor_araujo não tem o s0beit instalado.
+[31/03/2015 - 14:07:10] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[31/03/2015 - 14:07:10] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[31/03/2015 - 14:07:10] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[31/03/2015 - 14:10:08] - [Anti-S0beit]: Admin Baby_Face iniciou uma checagem de s0beit em Dilva_Xablau.
+[31/03/2015 - 14:10:15] - [Anti-S0beit]: RESULTADO: Dilva_Xablau tem o s0beit instalado.
+[31/03/2015 - 14:10:15] - [Anti-S0beit]: Posição Z da Camera: 21.758499.
+[31/03/2015 - 14:10:15] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[31/03/2015 - 14:10:15] - [Anti-S0beit]: Diferença absoluta da Posição Z: 4.086599 Metros.
+
+
+[31/03/2015 - 16:38:16] - [Anti-S0beit]: Admin Baby_Face iniciou uma checagem de s0beit em Orion_Mathhh.
+[31/03/2015 - 16:38:23] - [Anti-S0beit]: RESULTADO: Orion_Mathhh tem o s0beit instalado.
+[31/03/2015 - 16:38:23] - [Anti-S0beit]: Posição Z da Camera: 19.535299.
+[31/03/2015 - 16:38:23] - [Anti-S0beit]: Posição Z do Player: 17.848598.
+[31/03/2015 - 16:38:23] - [Anti-S0beit]: Diferença absoluta da Posição Z: 1.686700 Metros.
+
+
+[31/03/2015 - 17:43:19] - [Anti-S0beit]: Admin Baby_Face iniciou uma checagem de s0beit em EuZy_fdib.
+[31/03/2015 - 17:43:26] - [Anti-S0beit]: RESULTADO: EuZy_fdib não tem o s0beit instalado.
+[31/03/2015 - 17:43:26] - [Anti-S0beit]: Posição Z da Camera: 27.380065.
+[31/03/2015 - 17:43:26] - [Anti-S0beit]: Posição Z do Player: 27.380065.
+[31/03/2015 - 17:43:26] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.000000 Metros.
+
+
+[31/03/2015 - 17:58:54] - [Anti-S0beit]: Admin Baby_Face iniciou uma checagem de s0beit em APR_Andersonfast.
+[31/03/2015 - 17:59:01] - [Anti-S0beit]: RESULTADO: APR_Andersonfast não tem o s0beit instalado.
+[31/03/2015 - 17:59:01] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[31/03/2015 - 17:59:01] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[31/03/2015 - 17:59:01] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[25/08/2015 - 14:55:53] - [Anti-S0beit]: Admin iLeozin_OwneRSF iniciou uma checagem de s0beit em iLeozin_OwneRSF.
+[25/08/2015 - 14:56:02] - [Anti-S0beit]: RESULTADO: iLeozin_OwneRSF não tem o s0beit instalado.
+[25/08/2015 - 14:56:02] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[25/08/2015 - 14:56:02] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[25/08/2015 - 14:56:02] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+
+[28/08/2015 - 01:41:18] - [Anti-S0beit]: Admin Wsy_Zny iniciou uma checagem de s0beit em Wsy_Zny.
+[28/08/2015 - 01:41:26] - [Anti-S0beit]: RESULTADO: Wsy_Zny não tem o s0beit instalado.
+[28/08/2015 - 01:41:26] - [Anti-S0beit]: Posição Z da Camera: 18.446800.
+[28/08/2015 - 01:41:26] - [Anti-S0beit]: Posição Z do Player: 17.671899.
+[28/08/2015 - 01:41:26] - [Anti-S0beit]: Diferença absoluta da Posição Z: 0.774900 Metros.
+
+

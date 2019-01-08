@@ -1,0 +1,82 @@
+[24/03/2015 - 20:28:43] - Info_Inside pagou R$5000 para entrar na empresa 0
+[24/03/2015 - 20:32:03] - Info_Inside pagou R$5000 para entrar na empresa 0
+[24/03/2015 - 20:39:12] - Info_Inside pagou R$5000 para entrar na empresa 0
+[28/03/2015 - 23:16:10] - Info_Inside pagou R$5000 para entrar na empresa 3
+[28/03/2015 - 23:22:54] - Info_Inside pagou R$5000 para entrar na empresa 3
+[28/03/2015 - 23:25:56] - Info_Inside pagou R$5000 para entrar na empresa 3
+[30/03/2015 - 23:52:17] - Souza_GT pagou R$1000 para entrar na empresa 10
+[30/03/2015 - 23:52:28] - Claudiane_Pinheiro pagou R$1000 para entrar na empresa 10
+[30/03/2015 - 23:52:28] - Souza_GT pagou R$1000 para entrar na empresa 10
+[30/03/2015 - 23:54:57] - Cidadao_DeBem pagou R$1000 para entrar na empresa 10
+[30/03/2015 - 23:55:02] - Souza_GT deu grana para Claudiane_Pinheiro
+[30/03/2015 - 23:55:04] - Souza_GT deu grana para Claudiane_Pinheiro
+[30/03/2015 - 23:56:48] - Leo_Swift pagou R$1000 para entrar na empresa 10
+[31/03/2015 - 00:00:11] - Silvia_Roberta pagou R$5000 para entrar na empresa 3
+[31/03/2015 - 00:06:23] - Souza_GT deu grana para Cpt_JhonatanPM
+[31/03/2015 - 00:12:03] - Mr_Fire pagou R$1000 para entrar na empresa 10
+[31/03/2015 - 00:12:04] - Cidadao_DeBem pagou R$1000 para entrar na empresa 10
+[31/03/2015 - 00:12:43] - Maik_xD pagou R$1000 para entrar na empresa 10
+[31/03/2015 - 00:12:44] - Xulapa_Great pagou R$1000 para entrar na empresa 10
+[31/03/2015 - 00:12:44] - Xulapa_Great pagou R$1000 para entrar na empresa 10
+[31/03/2015 - 00:12:46] - Netto_Sousa pagou R$1000 para entrar na empresa 10
+[31/03/2015 - 00:14:44] - Mr_Fire pagou R$1000 para entrar na empresa 10
+[31/03/2015 - 00:14:50] - Leo_Swift deu grana para Claudiane_Pinheiro
+[31/03/2015 - 00:14:50] - Leo_Swift deu grana para Claudiane_Pinheiro
+[31/03/2015 - 00:14:51] - Leo_Swift deu grana para Claudiane_Pinheiro
+[31/03/2015 - 00:14:52] - Leo_Swift deu grana para Claudiane_Pinheiro
+[31/03/2015 - 00:14:53] - Leo_Swift deu grana para Claudiane_Pinheiro
+[31/03/2015 - 00:17:21] - Mr_Fire pagou R$1000 para entrar na empresa 10
+[31/03/2015 - 00:18:11] - Cidadao_DeBem pagou R$1000 para entrar na empresa 10
+[31/03/2015 - 00:18:25] - Mr_Fire pagou R$1000 para entrar na empresa 10
+[31/03/2015 - 00:41:46] - Expert_OwnZ pagou R$1000 para entrar na empresa 10
+[31/03/2015 - 00:41:51] - Cidadao_DeBem pagou R$1000 para entrar na empresa 10
+[31/03/2015 - 01:28:45] - Leo_Swift deu grana para Rodrigo_Stark
+[31/03/2015 - 01:28:45] - Leo_Swift deu grana para Rodrigo_Stark
+[31/03/2015 - 01:28:46] - Leo_Swift deu grana para Rodrigo_Stark
+[31/03/2015 - 01:28:47] - Leo_Swift deu grana para Rodrigo_Stark
+[31/03/2015 - 01:28:48] - Leo_Swift deu grana para Rodrigo_Stark
+[31/03/2015 - 01:28:49] - Baby_Face deu grana para Rodrigo_Stark
+[31/03/2015 - 01:28:51] - Baby_Face deu grana para Rodrigo_Stark
+[31/03/2015 - 01:28:51] - Baby_Face deu grana para Rodrigo_Stark
+[31/03/2015 - 01:29:18] - Kevin_Augusto pagou R$5000 para entrar na empresa 3
+[31/03/2015 - 01:30:38] - Kevin_Augusto pagou R$5000 para entrar na empresa 3
+[31/03/2015 - 01:31:21] - Leo_Swift pagou R$5000 para entrar na empresa 3
+[31/03/2015 - 04:26:08] - ferreira_lamilton pagou R$1000 para entrar na empresa 10
+[31/03/2015 - 10:24:05] - Koringa_Zuado pagou R$1000 para entrar na empresa 1
+[31/03/2015 - 11:01:22] - Rodrigo_Stark pagou R$1000 para entrar na empresa 10
+[31/03/2015 - 11:14:16] - Rodrigo_Stark pagou R$5000 para entrar na empresa 3
+[31/03/2015 - 11:45:49] - Baby_Face deu grana para Cpt_JhonatanPM
+[31/03/2015 - 11:47:48] - Rodrigo_Stark pagou R$1000 para entrar na empresa 10
+[31/03/2015 - 11:49:10] - Cidadao_DeBem pagou R$1000 para entrar na empresa 10
+[31/03/2015 - 11:50:44] - Rodrigo_Stark pagou R$1000 para entrar na empresa 10
+[31/03/2015 - 11:54:15] - Deagle_Vilhena pagou R$200 para entrar na empresa 7
+[31/03/2015 - 11:54:15] - Deagle_Vilhena pagou R$200 para entrar na empresa 7
+[31/03/2015 - 11:55:16] - Rodrigo_Stark deu grana para Cpt_JhonatanPM
+[31/03/2015 - 11:56:28] - Rodrigo_Stark deu grana para Cpt_JhonatanPM
+[31/03/2015 - 12:21:02] - Chico_Freitas pagou R$1000 para entrar na empresa 1
+[31/03/2015 - 12:54:45] - Baby_Face pagou R$5000 para entrar na empresa 6
+[31/03/2015 - 13:26:04] - Mr_Myguel pagou R$1000 para entrar na empresa 10
+[31/03/2015 - 13:27:00] - Mr_Myguel pagou R$1000 para entrar na empresa 10
+[31/03/2015 - 13:45:12] - Don_Chefao pagou R$5000 para entrar na empresa 3
+[31/03/2015 - 13:45:18] - igor_araujo pagou R$5000 para entrar na empresa 3
+[31/03/2015 - 13:46:43] - igor_araujo pagou R$5000 para entrar na empresa 3
+[31/03/2015 - 13:46:45] - Don_Chefao pagou R$5000 para entrar na empresa 3
+[31/03/2015 - 14:11:23] - Vitor_Lucas pagou R$5000 para entrar na empresa 3
+[31/03/2015 - 14:22:00] - Vitor_Lucas pagou R$1000 para entrar na empresa 10
+[31/03/2015 - 15:02:28] - Silvia_Roberta pagou R$5000 para entrar na empresa 3
+[31/03/2015 - 15:10:46] - 3SGT_CristianBOPE pagou R$1000 para entrar na empresa 1
+[31/03/2015 - 15:12:25] - 3SGT_CristianBOPE pagou R$1000 para entrar na empresa 1
+[31/03/2015 - 15:13:40] - 3SGT_CristianBOPE pagou R$200 para entrar na empresa 7
+[31/03/2015 - 17:06:44] - O_Lukao pagou R$1000 para entrar na empresa 8
+[31/03/2015 - 17:07:14] - O_Harper pagou R$1000 para entrar na empresa 8
+[31/03/2015 - 17:57:56] - carlos_manoel pagou R$200 para entrar na empresa 7
+[28/08/2015 - 03:39:59] - William_iHarDz pagou R$5000 para entrar na empresa 6
+[28/08/2015 - 03:40:13] - William_iHarDz pagou R$5000 para entrar na empresa 6
+[29/08/2015 - 14:26:52] - William_iHarDz pagou R$1000 para entrar na empresa 8
+[31/08/2015 - 15:32:47] - Victor_OwneRSF pagou R$200 para entrar na empresa 7
+[14/02/2017 - 16:21:03] - Jackson_xP pagou R$5000 para entrar na empresa 6
+[14/02/2017 - 16:21:07] - Jackson_xP pagou R$5000 para entrar na empresa 6
+[22/02/2017 - 21:54:06] - Jackson_xP pagou R$5000 para entrar na empresa 6
+[22/02/2017 - 23:58:49] - Jackson_xP pagou R$5000 para entrar na empresa 3
+[25/02/2017 - 21:52:50] - Jackson_xPP pagou R$200 para entrar na empresa 7
+[07/01/2019 - 10:43:06] - Jackson_xP pagou R$5000 para entrar na empresa 6

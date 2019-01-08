@@ -1,0 +1,13 @@
+[24/03/2015 - 19:50:44] - AdmCmd: O admin Info_Inside limpou a vaga de Admin Temporário, de Pedro_4ii20 Nível [1].
+[29/03/2015 - 11:42:39] - AdmCmd: O admin Saymon_Felipe limpou a vaga de Admin Temporário, de Daniel_Master2 Nível [1].
+[29/03/2015 - 11:48:18] - AdmCmd: O admin Saymon_Felipe limpou a vaga de Admin Temporário, de Ramirez_Ferraz Nível [1].
+[29/03/2015 - 16:09:39] - AdmCmd: O admin Saymon_Felipe limpou a vaga de Admin Temporário, de Ramirez_Ferraz Nível [1].
+[29/03/2015 - 16:09:39] - AdmCmd: O admin Saymon_Felipe limpou a vaga de Admin Temporário, de Leonardo_Sl Nível [1].
+[29/03/2015 - 17:42:20] - AdmCmd: O admin Saymon_Felipe limpou a vaga de Admin Temporário, de Baby_Face Nível [1].
+[29/03/2015 - 18:16:49] - AdmCmd: O admin Saymon_Felipe limpou a vaga de Admin Temporário, de Leonardo_Sl Nível [1].
+[30/03/2015 - 19:38:27] - AdmCmd: O admin Aleister_Crowley limpou a vaga de Admin Temporário, de iArky_ShiFt Nível [1].
+[02/03/2017 - 15:26:05] - AdmCmd: O admin Jackson_xP limpou a vaga de Admin TemporÃ¡rio, de Ramirez_Ferraz NÃ­vel [1].
+[02/03/2017 - 15:26:06] - AdmCmd: O admin Jackson_xP limpou a vaga de Admin TemporÃ¡rio, de Baby_Face NÃ­vel [1].
+[02/03/2017 - 15:26:07] - AdmCmd: O admin Jackson_xP limpou a vaga de Admin TemporÃ¡rio, de Ninguém NÃ­vel [0].
+[02/03/2017 - 15:26:08] - AdmCmd: O admin Jackson_xP limpou a vaga de Admin TemporÃ¡rio, de Ninguém NÃ­vel [0].
+[02/03/2017 - 15:26:09] - AdmCmd: O admin Jackson_xP limpou a vaga de Admin TemporÃ¡rio, de Leo_Swift NÃ­vel [1].

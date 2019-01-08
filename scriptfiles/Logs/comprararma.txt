@@ -1,0 +1,16 @@
+[24/03/2015 - 20:28:48] - Info_Inside comprou armas por R$25000 na empresa 0
+[24/03/2015 - 20:32:08] - Info_Inside comprou armas por R$20500 na empresa 0
+[24/03/2015 - 20:39:16] - Info_Inside comprou armas por R$20000 na empresa 0
+[24/03/2015 - 20:39:27] - Info_Inside comprou armas por R$399600 na empresa 0
+[24/03/2015 - 20:39:40] - Info_Inside comprou armas por R$90000 na empresa 0
+[31/03/2015 - 10:25:33] - Koringa_Zuado comprou armas por R$20000 na empresa 1
+[31/03/2015 - 15:13:56] - 3SGT_CristianBOPE comprou armas por R$29970 na empresa 7
+[31/03/2015 - 15:14:37] - 3SGT_CristianBOPE comprou armas por R$18000 na empresa 7
+[31/03/2015 - 17:07:16] - O_Lukao comprou armas por R$4650 na empresa 8
+[31/03/2015 - 17:07:33] - O_Harper comprou armas por R$50000 na empresa 8
+[31/03/2015 - 17:07:41] - O_Lukao comprou armas por R$70000 na empresa 8
+[31/03/2015 - 17:07:47] - O_Harper comprou armas por R$1200 na empresa 8
+[31/03/2015 - 17:08:00] - O_Harper comprou armas por R$3000 na empresa 8
+[31/03/2015 - 17:08:01] - O_Lukao comprou armas por R$8000 na empresa 8
+[31/03/2015 - 17:58:27] - carlos_manoel comprou armas por R$29970 na empresa 7
+[25/02/2017 - 21:52:56] - Jackson_xPP comprou armas por R$5800 na empresa 7

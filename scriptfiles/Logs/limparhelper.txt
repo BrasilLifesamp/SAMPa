@@ -1,0 +1,8 @@
+[24/03/2015 - 19:50:54] - AdmCmd: O admin Info_Inside limpou a vaga de Helper, de Info_Inside Nível [1].
+[28/03/2015 - 08:46:14] - AdmCmd: O admin Aleister_Crowley limpou a vaga de Helper, de gilmar_cp Nível [1].
+[28/03/2015 - 21:32:45] - AdmCmd: O admin Saymon_Felipe limpou a vaga de Helper, de Saymon_Felipe Nível [300].
+[29/03/2015 - 17:40:55] - AdmCmd: O admin Saymon_Felipe limpou a vaga de Helper, de Ninguem Nível [0].
+[29/03/2015 - 17:40:58] - AdmCmd: O admin Saymon_Felipe limpou a vaga de Helper, de Ninguem Nível [0].
+[29/03/2015 - 17:40:59] - AdmCmd: O admin Saymon_Felipe limpou a vaga de Helper, de Ninguem Nível [0].
+[29/03/2015 - 17:41:01] - AdmCmd: O admin Saymon_Felipe limpou a vaga de Helper, de Ninguem Nível [0].
+[29/03/2015 - 18:16:39] - AdmCmd: O admin Saymon_Felipe limpou a vaga de Helper, de Leonardo_Sl Nível [29].

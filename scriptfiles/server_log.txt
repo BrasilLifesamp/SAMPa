@@ -1,0 +1,47 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R4, (C)2005-2014 SA-MP Team
+
+[20:22:30] filterscripts = ""  (string)
+[20:22:30] 
+[20:22:30] Server Plugins
+[20:22:30] --------------
+[20:22:30]  Loading plugin: streamer.so
+[20:22:30] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[20:22:30]   Loaded.
+[20:22:30]  Loading plugin: sscanf.so
+[20:22:30] 
+
+[20:22:30]  ===============================
+
+[20:22:30]       sscanf plugin loaded.     
+
+[20:22:30]          Version:  2.8.1        
+
+[20:22:30]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:22:30]  ===============================
+
+[20:22:30]   Loaded.
+[20:22:30]  Loaded 2 plugins.
+
+[20:22:30] 
+[20:22:30] Ban list
+[20:22:30] --------
+[20:22:30]  Loaded: samp.ban
+[20:22:30] 
+[20:22:30] 
+[20:22:30] Filterscripts
+[20:22:30] ---------------
+[20:22:30]   Loaded 0 filterscripts.
+
+[20:22:30] Script[gamemodes/BPH.amx]: Run time error 19: "File or function is not found"
+[20:22:30] Number of vehicle models: 0
